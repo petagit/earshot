@@ -1,3 +1,5 @@
+> **Hookova fork:** [browse the hosted sound library](https://www.hookova.com/sound-effects/earshot) · [API and MCP integration](HOOKOVA.md). Original project by [Leon Lin](https://github.com/Leonxlnx/earshot).
+
 # earshot
 
 **Ears for coding agents.**
